@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -10,10 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   address:
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This website is *largely* in progress, but I'm a master's student at the CMU Databases group!
+I'm a Fifth Year Research Master's student in the [Computer Science Department](https://csd.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), studying database management systems (DBMSs). My advisor is [Dr. Andy Pavlo](http://www.cs.cmu.edu/~pavlo/), and I am a member of the [CMU DB Group](https://noise.page/people/). My interests are database systems and computer science education.
 
+Previously, I was a Software Engineer at [TileDB](https://tiledb.com/), working on their [open-source data engine](https://github.com/TileDB-Inc/TileDB). I completed my B.Sc. at Carnegie Mellon's School of Computer Science, majoring in computer science with a concentration in computer systems.
