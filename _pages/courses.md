@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /courses/
-title: cmu courses reviews
+title: cmu courses
 description: Reviews of each of my semesters as a CMU SCS undergrad.
 nav: true
 nav_order: 3
