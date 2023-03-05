@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: cs education rocks (to be edited later)
+description: A summary of my teaching experience.
 nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Assistant Experience
+All positions are affilated with Carnegie Mellon University.
+- Teaching Assistant for 15-445/645: Database Systems (Fall 2021, Spring 2023)
+- Teaching Assistant for 15-213/513: Introduction to Computer Systems (Spring 2020, Summer 2020, Fall 2020, Spring 2021\*, Summer 2021\*, Summer 2022^)
+- Teaching Assistant for 15-122: Principles of Imperative Computation (Spring 2019, Fall 2019)
 
-Organize your courses by years, topics, or universities, however you like!
+\* indicates a semester where I was also a Head TA for the course.
+^ indicates a semester where I was also a Guest Lecturer for the course.
