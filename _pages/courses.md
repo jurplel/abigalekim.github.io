@@ -113,7 +113,7 @@ This was also my first semester doing systems research with the CMU Databases Gr
 Although I still learned a lot from my classes and from extracurricular experiences, above all, this semester taught me to appreciate what I had before (such as being able to leave my home to see a friend) and offer compassion to both myself and those around me.
 
 This meme describes my feelings toward this semester more than any words will:
-![](/images/wholesomememe.jpg)
+![](assets/img/wholesomememe.jpeg)
 
 ## Spring 2021
 - 15-539: CS Pedagogy
