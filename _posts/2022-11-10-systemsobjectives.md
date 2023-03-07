@@ -13,7 +13,7 @@ Over my 3 years of being a teaching assistant for software systems classes, I've
 
 Unless the student is implementing a software system from scratch, on their own, a student should learn how to read other people's code. In fact, a significant amount of my work in the DBMS industry has been reading the codebase to understand how the moving components of existing code worked. Then, with time, after reading the code, the student should be capable of understanding the gist of how the software system works, and how the moving components of the system interact with each other. They should also be capable of reading and understanding partially created software systems.
 
-#### Reading/writing documentation
+### Reading/writing documentation
 
 One important part of understanding software systems is learning how to read documentation. It is common for a software system to contain external libraries or frameworks. These also need to be understood at least on a surface level by a student trying to understand a software system.
 
@@ -27,15 +27,15 @@ Students should learn how to design their own software systems, and features wit
 
 Students need to know how to understand a software system specification and convert it into code that is reliable and performs well. Students will need to be capable of translating ideas into a lower-level programming language, writing comprehensive, extensive, and robust tests (both for correctness and performance), and debugging all sorts of failures in their code. I'll expand each of these ideas in their own sections.
 
-#### Translating ideas
+### Translating ideas
 
 Students should learn how to translate higher level ideas into code. This includes learning how to think in different paradigms, such as functional/imperative, object-oriented programming, event-driven programming, and procedural programming. Students should also be prepared to implement software systems in different languages, depending on the purpose of the system. 
 
-#### Writing tests
+### Writing tests
 
 Students will need to be capable of testing both the correctness and performance of their code. They should be capable of writing fully comprehensive and robust tests, which include attacking edge cases and stress testing. Students should also be capable of evaluating the performance (both time and resource performance) of systems software, and fixing bugs as necessary to improve their code's performance.
 
-#### Debugging skills
+### Debugging skills
 
 Students will inevitably run into a lot of bugs when working on software systems related work. To be capable of solving these bugs, students will need to develop something I call "debugging resilience". Essentially, debugging resilience means that when a student encounters a bug, they have a plan of action until they figure out what they cannot understand. This would be opposed to a response such as immediately asking for help without attempting to gain information, or being frozen on action items. Given the current software systems ecosystem's shift toward parallel programming paradigms, students should also understand how to understand and debug concurrently executing code.
 
