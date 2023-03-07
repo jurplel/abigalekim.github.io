@@ -4,6 +4,7 @@ title:  Why CMU SCS?
 date: 2021-01-26
 description:
 categories:
+tags: cmu
 ---
 
 Choosing the right college to attend can be a really daunting experience, since there are so many things to consider! My hope is that this post gives some clarity as to what CMU SCS has to offer to undergrads (and what it doesn't), and helps you make an informed decision. 
