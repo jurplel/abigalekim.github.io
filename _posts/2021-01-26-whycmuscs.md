@@ -65,8 +65,8 @@ Just having "CMU SCS'' on your resume as an applicant for internships or entry-l
 Although I'll admit that the computer science internship job market is a crapshoot, your chances of getting an internship or entry-level job from the company that you want are relatively high if you go to CMU SCS. Many CMU students end up interning at big tech companies (if that's your goal) and have the opportunity to intern at smaller companies of their choosing.
 
 If you want to see for yourself, you can take a look at the following links:
-- [CMU Post Graduation Outcomes](https://www.cmu.edu/career/about-us/salaries-and-destinations/post-grad-dashboard-updated.html)
-- [CMU Internship Outcomes](https://www.cmu.edu/career/about-us/salaries-and-destinations/internship-dashboard.html)
+- [CMU Post Graduation Outcomes](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
+- [CMU Internship Outcomes](https://www.cmu.edu/career/outcomes/internship-dashboard.html)
 
 ### TAing
 

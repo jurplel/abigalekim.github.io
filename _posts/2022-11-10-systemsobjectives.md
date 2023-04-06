@@ -25,7 +25,7 @@ Students should learn how to design their own software systems, and features wit
 
 ### Systems implementation
 
-Students need to know how to understand a software system specification and convert it into code that is reliable and performs well. Students will need to be capable of translating ideas into a lower-level programming language, writing comprehensive, extensive, and robust tests (both for correctness and performance), and debugging all sorts of failures in their code. I'll expand each of these ideas in their own sections.
+Students need to know how to understand a software system specification and convert it into code that is reliable and performs well. Students will need to be capable of translating ideas into a lower-level programming language, writing comprehensive, extensive, and robust tests (both for correctness and performance), and debugging all sorts of failures in their code. 
 
 ### Translating ideas
 
