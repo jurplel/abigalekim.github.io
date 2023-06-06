@@ -14,6 +14,24 @@ My page is somewhat inspired by these pages.
 
 Typical disclaimer that opinions are mine and do not represent the opinions of my employer/college.
 
+## Spring 2023
+- 15-721: Advanced Database Systems
+- 15-712: Advanced Operating Systems and Distributed Systems
+- 15-697: Graduate Reading and Research
+
+Extracurriculars: TA for 15-445 (Database Systems)
+
+### Reflection
+Plot twist! I'm back at school--this time as a 5th Year Research Master's student researching the wonderful world of database extensions. Honestly, I had so much fun this semester. It was so nice to be immersed in CMU's wonderful academic community again. Research also ended up being super exciting and interesting, once I freed up my schedule enough to actually have time for it.
+
+The highlight of this semester was definitely 15-721, Advanced Database Systems. Andy Pavlo is a phenomenal lecturer and I learned a lot while laughing a lot, which is always a good thing\*. The first project, which is implementing your own Foreign Data Wrapper in Postgres, was well designed and taught me a lot about Postgres internals. 15-712 is a relatively easy class, and its set of required readings gave me a good overview of the general systems research sphere. 
+
+Lastly, I think a few people have asked me about the decision making w.r.t. returning to school after taking a year (or years) off. I think I'd summarize my "general"\*\* advice as this: If you find that you miss school after graduating, try to go back! Although I think at some point I'll try to write my own blog post on this topic.
+
+\*: No, I'm not saying that just because he's my research advisor. He actually is very funny.
+
+\*\*: Talia Ringer offers a more detailed take on their Wordpress [blog](https://taliasplse.wordpress.com/2016/05/22/how-to-take-an-industry-break/).
+
 ## Fall 2021
 - 15-462: Computer Graphics
 - 11-485: Introduction to Deep Learning
