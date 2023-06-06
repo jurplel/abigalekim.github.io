@@ -26,7 +26,7 @@ Plot twist! I'm back at school--this time as a 5th Year Research Master's studen
 
 The highlight of this semester was definitely 15-721, Advanced Database Systems. Andy Pavlo is a phenomenal lecturer and I learned a lot while laughing a lot, which is always a good thing\*. The first project, which is implementing your own Foreign Data Wrapper in Postgres, was well designed and taught me a lot about Postgres internals. 15-712 is a relatively easy class, and its set of required readings gave me a good overview of the general systems research sphere. I also liked that the midterms in 15-712 were open ended. Some of the questions allowed me to learn new things during the exam!
 
-Lastly, I think a few people have asked me about the decision making w.r.t. returning to school after taking a year (or years) off. I think I'd summarize my "general"\*\* advice as the following: If you find that you miss school after graduating, try to go back! If you're interested in a more nuanced take, Talia Ringer has a good post about this on their Wordpress [blog](https://taliasplse.wordpress.com/2016/05/22/how-to-take-an-industry-break/).
+Lastly, I think a few people have asked me about the decision making w.r.t. returning to school after taking a year (or years) off. I think I'd summarize my "general"\* advice as the following: If you find that you miss school after graduating, try to go back! If you're interested in a more nuanced take, Talia Ringer has a good post about this on their Wordpress [blog](https://taliasplse.wordpress.com/2016/05/22/how-to-take-an-industry-break/).
 
 \*: No, I'm not saying that just because he's my research advisor. He actually is very funny.
 
