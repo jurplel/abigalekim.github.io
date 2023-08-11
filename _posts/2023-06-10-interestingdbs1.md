@@ -43,6 +43,9 @@ DuckDB's push-based execution engine is designed to support high amounts of para
 ## Conclusion
 Ultimately, this turned into a "things I personally found interesting about database systems I've seen recently" post as opposed to "this are the de-facto features that make these databases systems special" post; however, I like this style better! If you read the post, I hope you learned something, and feel free to give me any feedback or let me know if I got anything wrong.
 
+## Acknowledgements
+I would like to thank my friend [Yaotian Feng](https://codetector.org/) for reading through this article and providing helpful feedback!
+
 ## References
 - [Looking Back at Postgres](https://arxiv.org/pdf/1901.01973.pdf)
 - [Postgres 15 Docs](https://www.postgresql.org/docs/15/index.html/)
