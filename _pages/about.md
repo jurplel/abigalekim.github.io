@@ -19,4 +19,4 @@ I'm a Fifth Year Research Master's student in the [Computer Science Department](
 
 Previously, I was a Software Engineer at [TileDB](https://tiledb.com/), working on their [open-source data engine](https://github.com/TileDB-Inc/TileDB). I completed my B.Sc. at Carnegie Mellon's School of Computer Science, majoring in computer science with a concentration in computer systems.
 
-Feel free to reach out abigalekim0417[at]gmail[dot]com. I"m happy to chat and connect!
+Feel free to reach out abigalekim0417[at]gmail[dot]com. I'm happy to chat and connect!
