@@ -19,4 +19,4 @@ I'm a Software Engineer at [TileDB](https://tiledb.com/), working on their [open
 
 I completed my B.Sc. at Carnegie Mellon's School of Computer Science, majoring in computer science with a concentration in computer systems.
 
-Feel free to reach out abigalekim0417[at]gmail[dot]com. I'm happy to chat and connect!
+In my free time, I enjoy listening to [Taylor Swift](https://twitter.com/abigale_kim/status/1645590351166722050) and fiber crafting. Feel free to reach out abigalekim0417[at]gmail[dot]com. I'm happy to chat and connect!

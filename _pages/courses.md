@@ -7,12 +7,41 @@ nav: true
 nav_order: 3
 ---
 
-My page is somewhat inspired by these pages. 
-- [Wan Shen Lim](https://wanshenl.me/courses/)
-- [Frank Fan](https://weihang7.github.io/courses/)
-- [Ruiran Xun](https://ruiran.me/courses/)
+My page is somewhat inspired by [Wan Shen Lim's](https://wanshenl.me/courses/) and [Frank Fan's](https://weihang7.github.io/courses/) course pages.
+
+Additionally, here are some other CMU course pages: [[1]](https://fanpu.io/courses/)[[2]](https://ruiran.me/courses/)[[3]](https://heleaf.me/blog/classes)[[4]](https://bokken12.github.io/reviews/)[[5]](https://pranavkumar.me/courses/)[[6]](https://pi314mm.github.io/courses.html). Email me if you'd like me to add yours!
 
 Typical disclaimer that opinions are mine and do not represent the opinions of my employer/college.
+
+## Fall 2023
+- 10-714: Deep Learning Systems
+- 15-740: Computer Architecture
+- 15-697: Graduate Reading and Research
+
+Extracurriculars: TA for 15-445 (Database Systems), applying to Ph.D. programs and NSF GRFP
+
+### Reflection
+This semester was simultaneously very busy and rewarding. Out of all my semesters so far, I've never really been busier than this! I essentially lived in Gates (coming in at 10am, leaving at 11pm to 1am, [7 days a week](https://www.youtube.com/watch?v=QU9c0053UAU)). Due to these arrangements, I worried I would become excessively burnt out due to my workload. However, at the end of the semester, I actually didn't feel burnt out, just quite tired and ready to R&R.
+
+Similar to last semester, I learned so much about database system extensibility, found cool and interesting results in my research, and got to present my work at the Parallel Data Lab Retreat\*. I found it exciting to see the industry guests at the Parallel Data Retreat intrigued about my research, and this experience has motivated me to try to pursue more practical, industry facing problems in my research career.
+
+I took two classes this semester. The first of which was Deep Learning Systems (DLSys). DLSys is a relatively new class that covers implementing different components of the deep learning stack. I gained insight on the scope of deep learning library implementation, and definitely appreciate libraries like PyTorch a lot more. However, I thought the class was doable by just trying to pass the test cases in the homework, which results in less effective learning. The second class I took was Computer Architecture. Computer Architecture (the CS Ph.D. version) is a lighter paper-reading/project class that focuses on computer architecture fundamentals. I thought the papers chosen were hard to understand for someone without architecture background, but gave a good overview of the field. Both the assignment and the project are pretty standard for a CS Ph.D. class--decently well-designed, but I could have spent more time on them than I did to get more out of them.
+
+Lastly, I graduate CMU (again!) not knowing where I'm headed next for my Ph.D. degree. The uncertainty admittedly terrifies me a bit, but wherever I go, I know I've got the knowledge I've acquired and the wonderful people I've met during my 4.5 years at CMU!
+
+\* A conference style event where CMU Parallel Data Lab members present their work. Also, the desserts at the retreat were SO delicious!
+
+## Summer 2023
+- 15-697: Graduate Reading and Research
+
+Extracurriculars: none
+
+### Reflection
+I spent most of this summer doing research! I developed most of my PostgreSQL analysis framework this summer, which was 1) a lot of work and 2) a lot of Python scripting. The overarching theme of this summer was definitely exploring PostgreSQL extensions, their internals, and the design decisions involved in creating them in depth. It was a lot of fun! This summer solidified my decision to apply for CS PhD programs in Fall 2023. I really enjoyed the discovery process of research.
+
+Unrelated to databases, I discovered that [serviceberries](https://backyardforager.com/amelanchier-serviceberry-juneberry/) are delicious! There are also a few serviceberry trees at CMU, near Gates and Newell-Simon. I was lucky enough to grab a few handfuls for snacking!
+![](/assets/img/serviceberries.jpeg)
+
 
 ## Spring 2023
 - 15-721: Advanced Database Systems
@@ -64,7 +93,7 @@ I thought the workload of my summer plans was quite high, but standard relative 
 #### Three Things I Learned
 - Reading through and contributing to a large, established C++ codebase requires a lot of effort and dedication. C++ is very hard and unintuitive for beginners to understand (NOT hot take: C++ should not be taught at the beginning programming level. This is another conversation that should be covered in its own blog post.)
 - I learned a lot about how startups work from the 8VC program I participated in biweekly. Startups are very money and funding focused, and often are created around a central, influential idea. (This seems obvious in retrospect; however, I was and am still very money/business clueless.)
-- Breaks can be beneficial to your well being!
+- Breaks can be beneficial to your well-being!
 
 ## Spring 2021
 - 15-539: CS Pedagogy
