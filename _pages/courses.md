@@ -40,7 +40,7 @@ Extracurriculars: none
 I spent most of this summer doing research! I developed most of my PostgreSQL analysis framework this summer, which was 1) a lot of work and 2) a lot of Python scripting. The overarching theme of this summer was definitely exploring PostgreSQL extensions, their internals, and the design decisions involved in creating them in depth. It was a lot of fun! This summer solidified my decision to apply for CS PhD programs in Fall 2023. I really enjoyed the discovery process of research.
 
 Unrelated to databases, I discovered that [serviceberries](https://backyardforager.com/amelanchier-serviceberry-juneberry/) are delicious! There are also a few serviceberry trees at CMU, near Gates and Newell-Simon. I was lucky enough to grab a few handfuls for snacking!
-![](/assets/img/serviceberries.jpeg)
+![](/assets/img/serviceberries.jpg)
 
 
 ## Spring 2023
